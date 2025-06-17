@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace staj_proje
 {
-    public partial class Form1: Form
+    public partial class grafik: Form
     {
-        public Form1()
+        public grafik()
         {
             InitializeComponent();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
