@@ -41,5 +41,22 @@ namespace staj_proje
         {
 
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chart1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            sonuclar sonuc = new sonuclar();
+            sonuc.Show();
+            this.Hide();
+        }
     }
 }

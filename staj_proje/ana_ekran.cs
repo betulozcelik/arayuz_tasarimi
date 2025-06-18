@@ -45,5 +45,10 @@ namespace staj_proje
         {
 
         }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
