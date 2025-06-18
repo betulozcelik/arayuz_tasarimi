@@ -21,14 +21,14 @@ namespace staj_proje
         {
             acilis_ekrani acik = new acilis_ekrani();
             acik.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             test_bolumu test = new test_bolumu();
             test.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void label9_Click(object sender, EventArgs e)

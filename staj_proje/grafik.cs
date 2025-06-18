@@ -21,5 +21,20 @@ namespace staj_proje
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            test_bolumu test = new test_bolumu();
+            test.Show();
+            this.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            sonuclar sonuc = new sonuclar();
+            sonuc.Show();
+            this.Close();
+
+        }
     }
 }

@@ -25,7 +25,7 @@ namespace staj_proje
         {
             ana_ekran ekran = new ana_ekran();
             ekran.Show();
-            this.Hide();
+            this.Close();
         }
 
 

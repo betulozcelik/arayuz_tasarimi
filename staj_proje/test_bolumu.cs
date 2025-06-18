@@ -21,14 +21,14 @@ namespace staj_proje
         {
             ana_ekran ekran = new ana_ekran();
             ekran.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             grafik ciz = new grafik();
             ciz.Show();
-            this.Hide();
+            this.Close();
         }
     }
 }

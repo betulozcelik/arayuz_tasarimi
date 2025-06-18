@@ -16,5 +16,19 @@ namespace staj_proje
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            grafik ciz = new grafik();
+            ciz.Show();
+            this.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            acilis_ekrani ekran = new acilis_ekrani();
+            ekran.Show();
+            this.Close();
+        }
     }
 }
