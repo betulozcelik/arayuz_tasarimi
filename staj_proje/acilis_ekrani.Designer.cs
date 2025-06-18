@@ -57,7 +57,7 @@
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button1.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button1.Location = new System.Drawing.Point(148, 64);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(440, 38);
@@ -68,7 +68,7 @@
             // 
             // button2
             // 
-            this.button2.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button2.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button2.Location = new System.Drawing.Point(148, 104);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(440, 38);
@@ -78,7 +78,7 @@
             // 
             // button3
             // 
-            this.button3.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button3.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button3.Location = new System.Drawing.Point(148, 148);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(440, 38);
@@ -88,7 +88,7 @@
             // 
             // button4
             // 
-            this.button4.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button4.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button4.Location = new System.Drawing.Point(148, 191);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(440, 38);
@@ -98,7 +98,7 @@
             // 
             // button5
             // 
-            this.button5.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button5.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button5.Location = new System.Drawing.Point(148, 234);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(440, 38);
@@ -108,7 +108,7 @@
             // 
             // button6
             // 
-            this.button6.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button6.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button6.Location = new System.Drawing.Point(148, 273);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(440, 38);
@@ -118,7 +118,7 @@
             // 
             // button7
             // 
-            this.button7.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button7.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button7.Location = new System.Drawing.Point(148, 317);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(440, 38);
@@ -128,7 +128,7 @@
             // 
             // button8
             // 
-            this.button8.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button8.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button8.Location = new System.Drawing.Point(148, 361);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(440, 38);
@@ -139,7 +139,7 @@
             // button9
             // 
             this.button9.AutoSize = true;
-            this.button9.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button9.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button9.Location = new System.Drawing.Point(148, 405);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(440, 38);
@@ -150,7 +150,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(604, 398);
+            this.pictureBox1.Location = new System.Drawing.Point(677, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(99, 45);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -176,6 +176,7 @@
             this.Controls.Add(this.label1);
             this.Name = "acilis_ekrani";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.acilis_ekrani_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

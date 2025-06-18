@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:acilis_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:acilis_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "acilis_ekrani.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs",
+              "RelativeDocumentMoniker": "acilis_ekrani.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs",
+              "RelativeToolTip": "acilis_ekrani.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:19:23.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "acilis_ekrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs",
+              "RelativeDocumentMoniker": "acilis_ekrani.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "acilis_ekrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:18:48.181Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

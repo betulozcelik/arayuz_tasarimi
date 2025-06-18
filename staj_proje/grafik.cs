@@ -36,5 +36,10 @@ namespace staj_proje
             this.Close();
 
         }
+
+        private void grafik_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

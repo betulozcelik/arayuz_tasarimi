@@ -17,17 +17,16 @@ namespace staj_proje
             InitializeComponent();
         }
 
-      
-
-       
-
         private void button1_Click(object sender, EventArgs e)
         {
             ana_ekran ekran = new ana_ekran();
             ekran.Show();
-            this.Close();
+
         }
 
+        private void acilis_ekrani_Load(object sender, EventArgs e)
+        {
 
+        }
     }
 }

@@ -35,5 +35,10 @@ namespace staj_proje
         {
 
         }
+
+        private void ana_ekran_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
