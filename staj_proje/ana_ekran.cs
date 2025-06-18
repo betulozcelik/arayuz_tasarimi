@@ -40,5 +40,10 @@ namespace staj_proje
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

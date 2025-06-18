@@ -3,12 +3,12 @@ C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\bin\Debug\staj_proje.e
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\bin\Debug\staj_proje.pdb
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.csproj.AssemblyReference.cache
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.acilis_ekrani.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.ana_ekran.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.grafik.resources
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.sonuclar.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.test_bolumu.resources
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.csproj.GenerateResource.cache
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.csproj.CoreCompileInputs.cache
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.exe
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.pdb
-C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.ana_ekran.resources
-C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.test_bolumu.resources
-C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.grafik.resources
-C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.sonuclar.resources
