@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\shear_stones_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:shear_stones_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\test_bolumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:test_bolumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:grafik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:acilis_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "grafik.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\grafik.cs",
-              "RelativeDocumentMoniker": "grafik.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\grafik.cs",
-              "RelativeToolTip": "grafik.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAASwDoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T14:02:53.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "grafik.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\grafik.cs",
-              "RelativeDocumentMoniker": "grafik.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\grafik.cs [Tasar\u0131m]",
-              "RelativeToolTip": "grafik.cs [Tasar\u0131m]",
+              "Title": "shear_stones_anaekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\shear_stones_anaekran.cs",
+              "RelativeDocumentMoniker": "shear_stones_anaekran.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\shear_stones_anaekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "shear_stones_anaekran.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:38:17.459Z",
+              "WhenOpened": "2025-06-19T10:11:10.369Z",
               "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "test_bolumu.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\test_bolumu.cs",
-              "RelativeDocumentMoniker": "test_bolumu.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\test_bolumu.cs [Tasar\u0131m]",
-              "RelativeToolTip": "test_bolumu.cs [Tasar\u0131m]",
+              "Title": "acilis_ekrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs",
+              "RelativeDocumentMoniker": "acilis_ekrani.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "acilis_ekrani.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:38:14.312Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "sonuclar.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\sonuclar.cs",
-              "RelativeDocumentMoniker": "sonuclar.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\sonuclar.cs [Tasar\u0131m]",
-              "RelativeToolTip": "sonuclar.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:37:58.391Z",
+              "WhenOpened": "2025-06-19T09:52:41.409Z",
               "EditorCaption": " [Tasar\u0131m]"
             }
           ]

@@ -38,6 +38,12 @@ namespace staj_proje
 
         private void button3_Click(object sender, EventArgs e)
         {
+            DialogResult sonuc;
+            sonuc = MessageBox.Show("Data saved successfully.", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
 
         }
     }

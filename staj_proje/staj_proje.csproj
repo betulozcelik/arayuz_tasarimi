@@ -59,11 +59,59 @@
     <Compile Include="ana_ekran.Designer.cs">
       <DependentUpon>ana_ekran.cs</DependentUpon>
     </Compile>
+    <Compile Include="beams3_anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="beams3_anaekran.Designer.cs">
+      <DependentUpon>beams3_anaekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="beams4_anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="beams4_anaekran.Designer.cs">
+      <DependentUpon>beams4_anaekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="border_stones_anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="border_stones_anaekran.Designer.cs">
+      <DependentUpon>border_stones_anaekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="brick_anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="brick_anaekran.Designer.cs">
+      <DependentUpon>brick_anaekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cylinder_anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cylinder_anaekran.Designer.cs">
+      <DependentUpon>cylinder_anaekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="e-modulus_anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="e-modulus_anaekran.Designer.cs">
+      <DependentUpon>e-modulus_anaekran.cs</DependentUpon>
+    </Compile>
     <Compile Include="grafik.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="grafik.Designer.cs">
       <DependentUpon>grafik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shear_blocks_anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shear_blocks_anaekran.Designer.cs">
+      <DependentUpon>shear_blocks_anaekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shear_stones_anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shear_stones_anaekran.Designer.cs">
+      <DependentUpon>shear_stones_anaekran.cs</DependentUpon>
     </Compile>
     <Compile Include="sonuclar.cs">
       <SubType>Form</SubType>
@@ -85,6 +133,24 @@
     <EmbeddedResource Include="ana_ekran.resx">
       <DependentUpon>ana_ekran.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="beams3_anaekran.resx">
+      <DependentUpon>beams3_anaekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="beams4_anaekran.resx">
+      <DependentUpon>beams4_anaekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="border_stones_anaekran.resx">
+      <DependentUpon>border_stones_anaekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="brick_anaekran.resx">
+      <DependentUpon>brick_anaekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cylinder_anaekran.resx">
+      <DependentUpon>cylinder_anaekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="e-modulus_anaekran.resx">
+      <DependentUpon>e-modulus_anaekran.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="grafik.resx">
       <DependentUpon>grafik.cs</DependentUpon>
     </EmbeddedResource>
@@ -97,6 +163,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="shear_blocks_anaekran.resx">
+      <DependentUpon>shear_blocks_anaekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shear_stones_anaekran.resx">
+      <DependentUpon>shear_stones_anaekran.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="sonuclar.resx">
       <DependentUpon>sonuclar.cs</DependentUpon>
     </EmbeddedResource>

@@ -266,6 +266,7 @@
             // button9
             // 
             this.button9.BackColor = System.Drawing.Color.Transparent;
+            this.button9.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button9.BackgroundImage")));
             this.button9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button9.Location = new System.Drawing.Point(706, 465);
             this.button9.Name = "button9";

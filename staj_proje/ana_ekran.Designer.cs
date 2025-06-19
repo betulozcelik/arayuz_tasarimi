@@ -146,7 +146,7 @@
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(60, 307);
+            this.label4.Location = new System.Drawing.Point(59, 307);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(157, 25);
             this.label4.TabIndex = 18;
@@ -158,7 +158,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(62, 261);
+            this.label3.Location = new System.Drawing.Point(60, 261);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(155, 25);
             this.label3.TabIndex = 17;
@@ -170,7 +170,7 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(70, 215);
+            this.label2.Location = new System.Drawing.Point(64, 215);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(147, 25);
             this.label2.TabIndex = 16;
@@ -197,6 +197,7 @@
             this.button3.Size = new System.Drawing.Size(190, 70);
             this.button3.TabIndex = 25;
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -208,6 +209,7 @@
             this.button4.Size = new System.Drawing.Size(190, 70);
             this.button4.TabIndex = 26;
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // label10
             // 
@@ -219,6 +221,7 @@
             this.label10.Size = new System.Drawing.Size(83, 25);
             this.label10.TabIndex = 27;
             this.label10.Text = "Settings";
+            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // label11
             // 
@@ -230,6 +233,7 @@
             this.label11.Size = new System.Drawing.Size(58, 25);
             this.label11.TabIndex = 28;
             this.label11.Text = "Save";
+            this.label11.Click += new System.EventHandler(this.label11_Click);
             // 
             // button6
             // 

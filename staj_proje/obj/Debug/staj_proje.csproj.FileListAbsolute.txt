@@ -12,3 +12,11 @@ C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.c
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.csproj.CoreCompileInputs.cache
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.exe
 C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.pdb
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.cylinder_anaekran.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.brick_anaekran.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.e_modulus_anaekran.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.beams3_anaekran.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.beams4_anaekran.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.border_stones_anaekran.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.shear_blocks_anaekran.resources
+C:\Users\user\Documents\GitHub\arayuz_tasarimi\staj_proje\obj\Debug\staj_proje.shear_stones_anaekran.resources

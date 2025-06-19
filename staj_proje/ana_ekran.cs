@@ -50,5 +50,27 @@ namespace staj_proje
         {
 
         }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            DialogResult sonuc;
+            sonuc = MessageBox.Show("Data saved successfully.", "Information", MessageBoxButtons.OK,MessageBoxIcon.Information);
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+            
+           
+        }
     }
 }
