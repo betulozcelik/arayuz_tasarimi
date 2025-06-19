@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\test_bolumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:test_bolumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\shear_stones_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:shear_stones_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:acilis_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\shear_blocks_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:shear_blocks_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\border_stones_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:border_stones_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\beams4_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:beams4_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\beams3_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:beams3_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\e-modulus_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:e-modulus_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\brick_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:brick_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\cylinder_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:cylinder_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\ana_ekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:ana_ekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|c:\\users\\user\\documents\\github\\arayuz_tasarimi\\staj_proje\\brick_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB67D7B-BC1E-4EB5-AB08-4316AA19BC9B}|staj_proje.csproj|solutionrelative:brick_anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +59,135 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "test_bolumu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\test_bolumu.cs",
+              "RelativeDocumentMoniker": "test_bolumu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\test_bolumu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "test_bolumu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:46:02.375Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shear_blocks_anaekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\shear_blocks_anaekran.cs",
+              "RelativeDocumentMoniker": "shear_blocks_anaekran.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\shear_blocks_anaekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "shear_blocks_anaekran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:45:35.912Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "border_stones_anaekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\border_stones_anaekran.cs",
+              "RelativeDocumentMoniker": "border_stones_anaekran.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\border_stones_anaekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "border_stones_anaekran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:45:25.908Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "beams4_anaekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\beams4_anaekran.cs",
+              "RelativeDocumentMoniker": "beams4_anaekran.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\beams4_anaekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "beams4_anaekran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:45:07.159Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "shear_stones_anaekran.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\shear_stones_anaekran.cs",
               "RelativeDocumentMoniker": "shear_stones_anaekran.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\shear_stones_anaekran.cs [Tasar\u0131m]",
               "RelativeToolTip": "shear_stones_anaekran.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:11:10.369Z",
+              "WhenOpened": "2025-06-19T14:33:31.338Z",
               "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "acilis_ekrani.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs",
-              "RelativeDocumentMoniker": "acilis_ekrani.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\acilis_ekrani.cs [Tasar\u0131m]",
-              "RelativeToolTip": "acilis_ekrani.cs [Tasar\u0131m]",
+              "DocumentIndex": 5,
+              "Title": "beams3_anaekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\beams3_anaekran.cs",
+              "RelativeDocumentMoniker": "beams3_anaekran.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\beams3_anaekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "beams3_anaekran.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:52:41.409Z",
+              "WhenOpened": "2025-06-19T14:44:58.712Z",
               "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "e-modulus_anaekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\e-modulus_anaekran.cs",
+              "RelativeDocumentMoniker": "e-modulus_anaekran.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\e-modulus_anaekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "e-modulus_anaekran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:44:45.709Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "brick_anaekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\brick_anaekran.cs",
+              "RelativeDocumentMoniker": "brick_anaekran.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\brick_anaekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "brick_anaekran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:44:35.353Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cylinder_anaekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\cylinder_anaekran.cs",
+              "RelativeDocumentMoniker": "cylinder_anaekran.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\cylinder_anaekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "cylinder_anaekran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:44:21.253Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ana_ekran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\ana_ekran.cs",
+              "RelativeDocumentMoniker": "ana_ekran.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\ana_ekran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ana_ekran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:43:20.321Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "brick_anaekran.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\brick_anaekran.cs",
+              "RelativeDocumentMoniker": "brick_anaekran.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\arayuz_tasarimi\\staj_proje\\brick_anaekran.cs",
+              "RelativeToolTip": "brick_anaekran.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAwwM4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:58:27.788Z",
+              "EditorCaption": ""
             }
           ]
         }
